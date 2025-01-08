@@ -48,7 +48,9 @@ pip3 install -r requirements.txt
 ```
 .
 ├── .env
+├── .git
 ├── .gitignore
+├── LICENSE
 ├── README.md
 ├── models.py
 ├── requirements.txt
