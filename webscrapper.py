@@ -57,6 +57,11 @@ def get_headers():
 def get_request():
     header = get_headers()
     response = requests.get(url=url, headers=header)
+    while response.status_code != 200:
+        print(f"Recieved Status Code: {response.status_code}")
+        print(f"Header: {header['User-Agent']}")
+        header = get_headers()
+        response = requests.get(url=url, headers=header)
     return response.text
 
 
@@ -110,16 +115,21 @@ def save_data(course_tuple):
         existing_item_in_claimed = (
             session.query(Claimed).filter_by(link=course_entry["Link"]).first()
         )
-        if existing_item is None and existing_item_in_claimed is None:
-            course_record = Scraped(
-                title=course_entry["Title"],
-                link=course_entry["Link"],
-                coupon=course_entry["Coupon"],
-                category=course_entry["Category"],
-            )
-            session.add(course_record)
-            display_entry(course_entry)
-            craft_message(course_entry)
+        if existing_item_in_claimed is None:
+            if existing_item is None:
+                course_record = Scraped(
+                    title=course_entry["Title"],
+                    link=course_entry["Link"],
+                    coupon=course_entry["Coupon"],
+                    category=course_entry["Category"],
+                )
+                session.add(course_record)
+                display_entry(course_entry)
+                craft_message(course_entry)
+            elif existing_item.coupon != course_entry["Coupon"]:
+                existing_item.coupon = course_entry["Coupon"]
+                display_entry(course_entry)
+                craft_message(course_entry)
     session.commit()
     session.close()
 
