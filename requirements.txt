@@ -4,9 +4,12 @@ charset-normalizer==3.4.1
 greenlet==3.1.1
 idna==3.10
 lxml==5.3.0
+PySocks==1.7.1
 python-dotenv==1.0.1
 requests==2.32.3
 soupsieve==2.6
 SQLAlchemy==2.0.36
+stem==1.8.2
+torrequest==0.1.0
 typing_extensions==4.12.2
 urllib3==2.3.0

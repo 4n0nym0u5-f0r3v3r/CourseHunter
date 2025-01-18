@@ -7,6 +7,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+from torrequest import TorRequest
 
 from models import Claimed, Scraped, Session
 
@@ -17,6 +18,18 @@ with open("user_agets_browsers.txt", "r") as f:
 url = os.environ.get("WEBSITE_URL")
 bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
 chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+
+
+def torConnect(url, header):
+    try:
+        with TorRequest() as tr:
+            tr.reset_identity_async()
+            response = tr.get(url=url, headers=header)
+            return response
+    except OSError:
+        print("Tor is not working....")
+        print("Maybe it's due to no internet or Tor is not in system path")
+        return None
 
 
 def greetings():
@@ -55,14 +68,47 @@ def get_headers():
 
 
 def get_request():
-    header = get_headers()
-    response = requests.get(url=url, headers=header)
-    while response.status_code != 200:
-        print(f"Recieved Status Code: {response.status_code}")
-        print(f"Header: {header['User-Agent']}")
+    try:
         header = get_headers()
-        response = requests.get(url=url, headers=header)
-    return response.text
+        response = torConnect(url, header)
+        if response is not None:
+            while response.status_code != 200:
+                print(f"Recieved Status Code: {response.status_code}")
+                print(f"Header: {header['User-Agent']}")
+                useragents.remove(header["User-Agent"])
+                with open("user_agets_browsers.txt", "w") as g:
+                    for useragent in useragents:
+                        g.write(useragent + "\n")
+                header = get_headers()
+                response = torConnect(url, header)
+        else:
+            print("Not Tor")
+            response = requests.get(url=url, headers=header)
+            while response.status_code != 200:
+                print(f"Recieved Status Code: {response.status_code}")
+                print(f"Header: {header['User-Agent']}")
+                useragents.remove(header["User-Agent"])
+                with open("user_agets_browsers.txt", "w") as g:
+                    for useragent in useragents:
+                        g.write(useragent + "\n")
+                header = get_headers()
+                response = requests.get(url=url, headers=header)
+        return response.text
+    except requests.exceptions.HTTPError as errhttp:
+        print(f"HTTP Error: {str(errhttp)}")
+        return None
+    except requests.exceptions.ProxyError as errproxy:
+        print(f"Proxy Error: {str(errproxy)}")
+        return None
+    except requests.exceptions.Timeout as errtimeout:
+        print(f"Timeout Error: {str(errtimeout)}")
+        return None
+    except requests.exceptions.ConnectionError:
+        print("No Internet.....")
+        return None
+    except requests.exceptions.RequestException as errUnknown:
+        print(f"Unknown Error: {str(errUnknown)}")
+        return None
 
 
 def process_with_soup(responded):
@@ -87,7 +133,7 @@ def process_with_soup(responded):
             .strip(),
         )
         for courses in soup.find_all("div", class_=course_list_class_name)
-        if courses.find("p", class_="mb-10 mt-10")
+        if courses.find("p", class_=course_category_class_name)
         .text.strip()
         .split("Category:")[1]
         .strip()
@@ -98,8 +144,8 @@ def process_with_soup(responded):
         CourseList.append(
             {
                 "Title": f"{listings[i][0].text.strip()}",
-                "Link": f"{listings[i][0]['href'].split("/?couponCode=")[0]}",
-                "Coupon": f"{listings[i][0]['href'].split("/?couponCode=")[1]}",
+                "Link": f"{listings[i][0]['href'].split('/?couponCode=')[0]}",
+                "Coupon": f"{listings[i][0]['href'].split('/?couponCode=')[1]}",
                 "Category": f"{listings[i][1]}",
             }
         )
@@ -135,19 +181,19 @@ def save_data(course_tuple):
 
 
 def display_entry(ce):
-    print(f"Title: {ce["Title"]}")
-    print(f"Link: {ce["Link"]}")
-    print(f"Coupon: {ce["Coupon"]}")
-    print(f"Category: {ce["Category"]}")
+    print(f"Title: {ce['Title']}")
+    print(f"Link: {ce['Link']}")
+    print(f"Coupon: {ce['Coupon']}")
+    print(f"Category: {ce['Category']}")
     print("-" * 102)
 
 
 def craft_message(centry):
     chat = f"""
-Title: {centry["Title"]}
-Link: <code>{centry["Link"]}</code>
-Coupon: <code>{centry["Coupon"]}</code>
-Category: {centry["Category"]}
+Title: {centry['Title']}
+Link: <code>{centry['Link']}</code>
+Coupon: <code>{centry['Coupon']}</code>
+Category: {centry['Category']}
 """
     try:
         send_telegram_message(bot_token, chat_id, chat)
@@ -169,7 +215,10 @@ def send_telegram_message(bot_token, chat_id, message):
 if __name__ == "__main__":
     greetings()
     while True:
-        course_list_output = process_with_soup(get_request())
+        html_response = get_request()
+        while html_response is None:
+            html_response = get_request()
+        course_list_output = process_with_soup(html_response)
         save_data(course_list_output)
         base_time_minutes = 15
         jitter = random.choice(range(1, 121))
