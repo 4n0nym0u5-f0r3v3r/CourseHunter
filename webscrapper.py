@@ -23,12 +23,14 @@ chat_id = os.environ.get("TELEGRAM_CHAT_ID")
 def torConnect(url, header):
     try:
         with TorRequest() as tr:
-            tr.reset_identity_async()
             response = tr.get(url=url, headers=header)
             return response
     except OSError:
         print("Tor is not working....")
         print("Maybe it's due to no internet or Tor is not in system path")
+        return None
+    except Exception as e:
+        print(f"SOMETHING WENT WRONG: {e}")
         return None
 
 
@@ -215,7 +217,10 @@ def send_telegram_message(bot_token, chat_id, message):
 if __name__ == "__main__":
     greetings()
     while True:
-        html_response = get_request()
+        try:
+            html_response = get_request()
+        except Exception as e:
+            print(f"SOMETHING WENT WRONG: {e}")
         while html_response is None:
             html_response = get_request()
         course_list_output = process_with_soup(html_response)
