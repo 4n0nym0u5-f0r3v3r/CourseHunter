@@ -1,39 +1,26 @@
 Mozilla/5.0 (compatible; U; ABrowse 0.6; Syllable) AppleWebKit/420+ (KHTML, like Gecko)
 Mozilla/5.0 (compatible; ABrowse 0.4; Syllable)
 Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Acoo Browser 1.98.744; .NET CLR 3.5.30729)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; Maxthon; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; GTB5;
 Mozilla/4.0 (compatible; Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727); Windows NT 5.1; Trident/4.0; Maxthon; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.2)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Acoo Browser; GTB6; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; Acoo Browser; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; Acoo Browser; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; GTB5; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Acoo Browser; InfoPath.2; .NET CLR 2.0.50727; Alexa Toolbar)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Acoo Browser; .NET CLR 2.0.50727; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Acoo Browser; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; InfoPath.2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Acoo Browser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1; Windows NT 5.1; (R1 1.5); .NET CLR 2.0.50727; InfoPath.1)
 Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; InfoPath.1; .NET CLR 2.0.50727; Media Center PC 3.0; InfoPath.2)
 Mozilla/4.0 (compatible; MSIE 7.0; America Online Browser 1.1; rev1.2; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; HbTools 4.7.0)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322; InfoPath.1; HbTools 4.8.0)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.1.4322; HbTools 4.7.1)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 3.1)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; SV1)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; FunWebProducts; (R1 1.5); HbTools 4.7.7)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1; FunWebProducts)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows NT 5.0)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; Windows 98)
-Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; FunWebProducts; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; America Online Browser 1.1; rev1.5; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1)
 AmigaVoyager/3.2 (AmigaOS/MC680x0)
 AmigaVoyager/2.95 (compatible; MC680x0; AmigaOS; SV1)
@@ -103,7 +90,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.27; Windows NT 6.0; WO
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.27; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506); UnAuth-State
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4334.27; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; InfoPath.1); UnAuth-State
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.1; AOLBuild 4327.65535; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727); UnAuth-State
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.1; AOLBuild 4334.5006; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
 Mozilla/5.0 (compatible; MSIE 9.0; AOL 9.0; Windows NT 6.0; Trident/5.0)
 Mozilla/4.0 (compatible; MSIE 8.0; AOL 9.0; AOLBuild 4327.5201; Windows NT 6.0; WOW64; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30729; .NET CLR 3.5.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
@@ -111,14 +97,11 @@ Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Trident/4.0; SLCC1; 
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Trident/4.0; FunWebProducts; GTB6.4; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 1.1.4322; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Seekmo 10.0.406.0)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; FunWebProducts; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Seekmo 10.0.341.0)
-Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 6.0; FunWebProducts; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; Trident/4.0; GTB6; FunWebProducts; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; InfoPath.1)
-Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; GTB5; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; GTB5; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; GTB5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.0; Windows NT 5.1; GTB5; .NET CLR 1.1.4322)
@@ -133,44 +116,29 @@ Mozilla/4.0 (compatible; MSIE 7.0; AOL 8.0; Windows NT 5.1; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 8.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; YComp 5.0.0.0; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1; (R1 1.3); .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; SV1)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; Q312461)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts; SV1; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts; SV1)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; FunWebProducts)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1; (R1 1.3))
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 8.0; Windows NT 5.0)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 7.0; Windows NT 5.1; FunWebProducts)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 7.0; Windows NT 5.1; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 7.0; Windows NT 5.1) (Compatible;  ;  ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 7.0; AOL 7.0; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.2.6; Hotbar 4.2.8.0)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.2.4)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; YComp 5.0.0.0)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; SV1)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Q312461; YComp 5.0.0.0)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Q312461)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Hotbar 4.2.8.0)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Hotbar 4.1.7.0)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.0)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90; (R1 1.3))
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9x 4.90)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 6.0; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98; Win 9x 4.90)
 Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98)
 Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 95)
 Mozilla/4.0 (compatible; MSIE 5.0; AOL 6.0; Windows 98; DigExt; YComp 5.0.2.5)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows 98; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows 98)
 Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows NT 5.0)
 Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98; YComp 5.0.0.0)
@@ -1289,46 +1257,33 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.2; .NET CLR 2.0.5072
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Crazy Browser 3.0.0 Beta2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; Crazy Browser 3.0.0 Beta2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Crazy Browser 3.0.0 Beta2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Crazy Browser 3.0.0 Beta2)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.3; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Avant Browser; .NET CLR 2.0.50727; .NET CLR 3.0.04506.590; .NET CLR 3.5.20706; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Alexa Toolbar; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; HbTools 4.7.0; Crazy Browser 2.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; (R1 1.3; Crazy Browser 2.0.1); .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Media Center PC 3.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Crazy Browser 2.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 2.0.0 Beta 1; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; Crazy Browser 2.0.0)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Crazy Browser 2.0.0)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; Crazy Browser 2.0.0)
 Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Crazy Browser 1.x.x)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YComp 5.0.0.0; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5; .NET CLR 1.1.4322; InfoPath.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; Crazy Browser 1.0.5; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Hotbar 4.3.1.0; Crazy Browser 1.0.5; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts-MyWay; SV1; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DigExt; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5; .NET CLR 2.0.40607; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5; (R1 1.3))
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Browser 1.0.5)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Avant Browser [avantbrowser.com]; Crazy Browser 1.0.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Q312461; Crazy Browser 1.0.5; .NET CLR 1.0.3705)
 Cyberdog/2.0 (Macintosh; PPC)
 Cyberdog/2.0 (Macintosh; 68k)
@@ -1336,11 +1291,9 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/4.0; Deepnet E
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Deepnet Explorer 1.5.3; Smart 2x2; .NET CLR 2.0.50727; .NET CLR 1.1.4322; InfoPath.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Deepnet Explorer 1.5.3; Smart 2x2; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Deepnet Explorer 1.5.3; Smart 2x2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Deepnet Explorer 1.5.3; Smart 2x2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; Deepnet Explorer 1.5.2; SpamBlockerUtility 4.7.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Deepnet Explorer 1.5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Deepnet Explorer 1.5.0; .NET CLR 2.0.50727)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Deepnet Explorer 1.5.0; .NET CLR 2.0.50727)
 Mozilla/5.0 (Macintosh; U; PPC Mac OS X; pl-pl) AppleWebKit/312.8 (KHTML, like Gecko, Safari) DeskBrowse/1.0
 Dillo/2.0
 Dillo/0.8.6-i18n-misc
@@ -1720,7 +1673,6 @@ Mozilla/5.0 (X11; Arch Linux i686; rv:2.0) Gecko/20110321 Firefox/4.0
 Mozilla/5.0 (Windows; U; Windows NT 6.1; ru; rv:1.9.2.3) Gecko/20100401 Firefox/4.0 (.NET CLR 3.5.30729)
 Mozilla/5.0 (Windows NT 6.1; rv:2.0) Gecko/20110319 Firefox/4.0
 Mozilla/5.0 (Windows NT 6.1; rv:1.9) Gecko/20100101 Firefox/4.0
-Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.2) Gecko/20121223 Ubuntu/9.25 (jaunty) Firefox/3.8
 Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8
 Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.2.3) Gecko/20100401 Mozilla/5.0 (X11; U; Linux i686; it-IT; rv:1.9.0.2) Gecko/2008092313 Ubuntu/9.25 (jaunty) Firefox/3.8
@@ -3768,7 +3720,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.507
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322; GreenBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; GreenBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; GreenBrowser)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; InfoPath.1; GreenBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; GreenBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; GreenBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 1.1.4322; GreenBrowser)
@@ -3993,7 +3944,6 @@ Mozilla/5.0 (X11; U; Linux i686; en; rv:1.9) Gecko/2008062113 Iceweasel/3.0
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9) Gecko/2008062113 Iceweasel/3.0 (Debian-3.0~rc2-2)
 Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.8.1.9) Gecko/20071025 Iceweasel/2.0.0.9 (Debian-2.0.0.9-2)
 Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.8.1.9) Gecko/20071025 Iceweasel/2.0.0.9
-Mozilla/15.0 (X11; U; Linux i686; es-ES; rv:1.8.1.9) Gecko/20071025 Iceweasel/2.0.0.9
 Mozilla/5.0 (X11; U; Linux i686; ru; rv:1.8.1.8) Gecko/20071004 Iceweasel/2.0.0.8 (Debian-2.0.0.6+2.0.0.8-0etch1)
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.8) Gecko/20071004 Iceweasel/2.0.0.8 (Debian-2.0.0.6+2.0.0.8-0etch1)
 Mozilla/5.0 (X11; U; Linux x64; en-US; rv:1.8.1.7) Gecko/20070914 Iceweasel/2.0.0.7 (Debian-2.0.0.7-1)
@@ -4076,7 +4026,6 @@ Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
 Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)
 Mozilla/5.0 (compatible; MSIE 10.0; Macintosh; Intel Mac OS X 10_7_3; Trident/6.0)
 Mozilla/4.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/5.0)
-Mozilla/1.22 (compatible; MSIE 10.0; Windows 3.1)
 Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))
 Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)
 Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 7.1; Trident/5.0)
@@ -4151,35 +4100,15 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; SLCC2; .NET CLR 2.0.50
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/6.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; .NET4.0E)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; chromeframe/12.0.742.100)
 Mozilla/4.0 (compatible; MSIE 6.1; Windows XP; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
-Mozilla/4.0 (compatible; MSIE 6.1; Windows XP)
-Mozilla/4.0 (compatible; MSIE 6.01; Windows NT 6.0)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.2.6)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; YComp 5.0.0.0)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.1.4322)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0; .NET CLR 1.0.2914)
 Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)
 Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; YComp 5.0.0.0)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98; Win 9x 4.90)
 Mozilla/4.0 (compatible; MSIE 6.0b; Windows 98)
 Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.1)
-Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 4.0)
-Mozilla/5.0 (Windows; U; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
-Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4325)
 Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1)
-Mozilla/45.0 (compatible; MSIE 6.0; Windows NT 5.1)
-Mozilla/4.08 (compatible; MSIE 6.0; Windows NT 5.1)
-Mozilla/4.01 (compatible; MSIE 6.0; Windows NT 5.1)
 Mozilla/4.0 (X11; MSIE 6.0; i686; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM)
 Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 6.0)
-Mozilla/4.0 (Windows; MSIE 6.0; Windows NT 5.0)
-Mozilla/4.0 (Windows;  MSIE 6.0;  Windows NT 5.1;  SV1; .NET CLR 2.0.50727)
-Mozilla/4.0 (MSIE 6.0; Windows NT 5.1)
 Mozilla/4.0 (MSIE 6.0; Windows NT 5.0)
-Mozilla/4.0 (compatible;MSIE 6.0;Windows 98;Q312461)
 Mozilla/4.0 (Compatible; Windows NT 5.1; MSIE 6.0) (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1) (Compatible;  ;  ; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; U; MSIE 6.0; Windows NT 5.1)
@@ -4192,7 +4121,6 @@ Mozilla/4.0 (compatible; MSIE 5.50; Windows NT; SiteKiosk 4.8)
 Mozilla/4.0 (compatible; MSIE 5.50; Windows 98; SiteKiosk 4.8)
 Mozilla/4.0 (compatible; MSIE 5.50; Windows 95; SiteKiosk 4.8)
 Mozilla/4.0 (compatible;MSIE 5.5; Windows 98)
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1)
 Mozilla/4.0 (compatible; MSIE 5.5;)
 Mozilla/4.0 (Compatible; MSIE 5.5; Windows NT5.0; Q312461; SV1; .NET CLR 1.1.4322; InfoPath.2)
 Mozilla/4.0 (compatible; MSIE 5.5; Windows NT5)
@@ -4296,18 +4224,10 @@ Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; .NET CLR 1.1.4322; .NET CLR 2.0.5
 Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
 Mozilla/4.0 (Compatible; MSIE 4.0)
 Mozilla/2.0 (compatible; MSIE 4.0; Windows 98)
-Mozilla/2.0 (compatible; MSIE 3.02; Windows 3.1)
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)
-Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)
-Mozilla/2.0 (compatible; MSIE 3.0B; Windows NT)
 Mozilla/3.0 (compatible; MSIE 3.0; Windows NT 5.0)
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 95)
-Mozilla/2.0 (compatible; MSIE 3.0; Windows 3.1)
 Mozilla/4.0 (compatible; MSIE 2.0; Windows NT 5.0; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
-Mozilla/1.22 (compatible; MSIE 2.0; Windows 95)
 Mozilla/1.22 (compatible; MSIE 2.0; Windows 3.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; iRider 2.60.0008; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; iRider 2.21.1108)
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1250.0 Iron/22.0.2150.0 Safari/537.4
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1250.0 Iron/22.0.2150.0 Safari/537.4
 Mozilla/5.0 (X11; U; Linux amd64) Iron/21.0.1200.0 Chrome/21.0.1200.0 Safari/537.1
@@ -4694,7 +4614,6 @@ Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.6; KKman3.0
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; (R1 1.5); KKman3.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6.6; KKman3.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6.6; KKman3.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.5.30729; OfficeLiveConnector.1.5; OfficeLivePatch.1.3; .NET CLR 3.0.30729)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; KKman3.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; .NET CLR 1.1.4322; MEGAUPLOAD 2.0; InfoPath.2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; KKman3.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30618; OfficeLiveConnector.1.3; OfficeLivePatch.0.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; KKman3.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.30618; .NET CLR 3.5.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; KKman3.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.2; .NET CLR 1.1.4322)
@@ -4710,7 +4629,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; KKman3.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; KKman3.0; InfoPath.1; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; KKman3.0; .NET CLR 2.0.50727)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KKman2.0; .NET CLR 1.0.3705)
 Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; KKman2.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; KKman3.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.19) Gecko/20081217 KMLite/1.1.2
@@ -5173,10 +5091,6 @@ Links (0.98; Darwin 6.0 Power Macintosh)
 Links (0.98; Darwin 6.0 Power Macintosh)
 Links (0.96; Linux 2.4.20-18.7 i586)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows XP 5.1) Lobo/0.98.4
-Mozilla/4.0 (compatible; MSIE 6.0; Linux 2.6.26-1-amd64) Lobo/0.98.3
-Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.98.2
-Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.98
-Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.97.5
 Mozilla/4.0 (compatible; MSIE 6.0; U; Windows;) Lobo/0.97.1
 Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070225 lolifox/0.32
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2) Gecko/20070225 lolifox/0.32
@@ -5234,7 +5148,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.432
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6.5; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 6.2.0.22177)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 6.2.0.22177)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; Lunascape 6.2.0.22177)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Lunascape 6.2.0.22177)
 Mozilla/5.0 (Windows; U; Windows NT 5.2; es-ES; rv:1.9.1.10) Gecko/20100624 Firefox/3.5.10 Lunascape/6.1.7.21880 (.NET CLR 3.5.30729)
 Mozilla/5.0 (Windows; U; Windows NT 5.0; ja; rv:1.9.1.10) Gecko/20100624 Firefox/3.5.10 Lunascape/6.1.7.21880
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Lunascape 6.1.7.21880)
@@ -5247,7 +5160,6 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; ja; rv:1.9.1.9) Gecko/20100331 Firefox/
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.8) Gecko/20100223 Firefox/3.5.8 Lunascape/6.1.0.20995
 Mozilla/5.0 (Windows; U; Windows NT 5.1; cs-CZ) AppleWebKit/533.3 (KHTML, like Gecko) Lunascape/6.1.0.20995 Safari/533.3
 Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.8) Gecko/20100223 Firefox/3.5.8 Lunascape/6.1.0.20940 ( .NET CLR 3.5.30729)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Lunascape 6.0.3.20663)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 6.0.1.20094)
 Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.9.1.3) Gecko/20090804 Firefox/3.5.3 Lunascape/5.1.5.19059
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30618; Lunascape 5.1.5.19059)
@@ -5259,7 +5171,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; .NET CLR 3.0.30729; Lunascape 5.1.3.4)
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1) Gecko/20090701 Firefox/3.5 Lunascape/5.1.2.3
 Mozilla/5.0 (Windows; U; ; cs-CZ) AppleWebKit/532+ (KHTML, like Gecko, Safari/532.0) Lunascape/5.1.2.3
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.1; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Lunascape 5.1.2.3)
 Mozilla/5.0 (Windows; U; Windows NT 6.0; ja-JP) AppleWebKit/528+ (KHTML, like Gecko, Safari/528.0) Lunascape/5.1.2.0
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/528+ (KHTML, like Gecko, Safari/528.0) Lunascape/5.1.2.0
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/528+ (KHTML, like Gecko, Safari/528.0) Lunascape/5.1.2.0
@@ -5280,8 +5191,6 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Me
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; OfficeLiveConnector.1.3; OfficeLivePatch.1.3; Lunascape 5.0.5.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Lunascape 5.0.5.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; Lunascape 5.0.5.0)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; Lunascape 5.0.5.0)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; Lunascape 5.0.5.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; GTB6; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.30729; Lunascape 5.0.4.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 5.0.4.0)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 3.0.4506.2152; .NET CLR 2.0.50727; Lunascape 5.0.4.0)
@@ -5295,11 +5204,7 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; Lunascape 5.0 alpha3)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 5.0 alpha3)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Lunascape 5.0 alpha3)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; Lunascape 5.0 alpha3)
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Tablet PC 2.0; Lunascape 5.0 alpha2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 2.0.50727; Lunascape 5.0 alpha1)
 Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.99
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Lunascape 4.9.9.98)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; Lunascape 4.9.9.97)
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.96
 Mozilla/5.0 (Windows; U; Windows NT 5.0; ja-JP) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.96
@@ -5309,11 +5214,8 @@ Mozilla/5.0 (Windows; N; Windows NT 5.1; hu-HU) AppleWebKit/529 (KHTML, like Gec
 Mozilla/5.0 (Windows; N; Windows NT 5.1; en-US) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.94
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/529 (KHTML, like Gecko, Safari/529.0) Lunascape/4.9.9.100
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; Lunascape 4.8.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; Lunascape 4.7.2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Lunascape 4.0.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461; .NET CLR 1.1.4322; Lunascape 4.0.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; Lunascape 3.0.4)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; Lunascape 2.1.3)
 Lynx/2.8.8dev.3 libwww-FM/2.14 SSL-MM/1.4.1
 Lynx/2.8.7rel.2 libwww-FM/2.14 SSL-MM/1.4.1 OpenSSL/1.0.0a
 Lynx/2.8.7pre.5 libwww-FM/2.14 SSL-MM/1.4.1
@@ -5703,7 +5605,6 @@ Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8a1) Gecko/20040520
 Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.8a1) Gecko/20040520
 Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1a2) Gecko/20060512
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.8) Gecko/20071022
-Mozilla/5.001 (X11; U; Linux i686; rv:1.8.1.6; de-ch) Gecko/25250101 (ubuntu-feisty)
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/20070531
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/20070508 (Debian-1.8.1.4-2ubuntu5)
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.4) Gecko/20061201 Mozilla/5.0 (Linux Mint)
@@ -6183,14 +6084,8 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MyIE2; .NET CLR 1.1.4322; .NE
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; MyIE2; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; MyIE2; .NET CLR 1.1.4322; InfoPath.1)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; MyIE2; .NET CLR 1.1.4322; .NET CLR 1.0.3705)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2; InfoPath.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2; .NET CLR 2.0.50727)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2; .NET CLR 1.0.3705; .NET CLR 1.1.4322)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; MyIE2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; MyIE2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; YComp 5.0.2.6)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; SV1; iebar)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; SV1; Alexa Toolbar)
 Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2a2pre) Gecko/20090908 Ubuntu/9.04 (jaunty) Namoroka/3.6a2pre GTB5 (.NET CLR 3.5.30729)
 Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2a2pre) Gecko/20090901 Ubuntu/9.10 (karmic) Namoroka/3.6a2pre
@@ -6284,8 +6179,6 @@ Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en) AppleWebKit/419 (KHTML, like Geck
 Mozilla/5.0 (Macintosh; U; PPC Mac OS X; fr) AppleWebKit/417.9 (KHTML, like Gecko) NetNewsWire/2.0.1
 Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/417.9 (KHTML, like Gecko) NetNewsWire/2.0.1
 Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-us) AppleWebKit/417.9 (KHTML, like Gecko) NetNewsWire/2.0
-Mozilla/3.0 (compatible; NetPositive/2.2.2; BeOS)
-Mozilla/3.0 (compatible; NetPositive/2.2)
 Mozilla/3.0 (compatible; NetPositive/2.1.1; BeOS)
 Mozilla/5.0 (Windows; U; Win 9x 4.90; SG; rv:1.9.2.4) Gecko/20101104 Netscape/9.1.0285
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.8pre) Gecko/20070928 Firefox/2.0.0.7 Navigator/9.0RC1
@@ -6828,17 +6721,13 @@ Mozilla/4.01 [en] (Win95; I)
 Mozilla/4.01 [de] (WinNT; I)
 Mozilla/4.0 (compatible; Windows NT 5.1; U; en)
 Mozilla/4.0 (compatible; Mozilla/5.0 ; Linux i686)
-Mozilla/3.04Gold (WinNT; U)
 Mozilla/3.04 (WinNT; I)
-Mozilla/3.01Gold (X11; I; SunOS 5.5.1 sun4m)
 Mozilla/3.01Gold (Macintosh; I; 68K)
 Mozilla/3.01 [de] (Win95; I)
 Mozilla/3.01 (Macintosh; U; PPC)
 Mozilla/3.0 (X11; I; AIX 2)
 Mozilla/3.0 (Win95; I)
-Mozilla/3.0 (Macintosh; U; PPC Mac OS X; pl-PL)
 Mozilla/3.0 (Macintosh; I; PPC)
-Mozilla/3.0 (Macintosh; I; 68K)
 Mozilla/2.02Gold (Win95; I)
 Mozilla/2.02 [fr] (WinNT; I)
 NetSurf/2.0 (RISC OS; armv5l)
@@ -6996,7 +6885,6 @@ Opera/9.80 (Windows NT 5.1; U; de) Presto/2.2.15 Version/10.10
 Opera/9.80 (Windows NT 5.1; U; cs) Presto/2.2.15 Version/10.10
 Mozilla/5.0 (Windows NT 6.0; U; tr; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 10.10
 Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; de) Opera 10.10
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; tr) Opera 10.10
 Opera/9.80 (X11; Linux x86_64; U; en-GB) Presto/2.2.15 Version/10.01
 Opera/9.80 (X11; Linux x86_64; U; en) Presto/2.2.15 Version/10.00
 Opera/9.80 (X11; Linux x86_64; U; de) Presto/2.2.15 Version/10.00
@@ -7146,7 +7034,6 @@ Opera/9.52 (Macintosh; Intel Mac OS X; U; pt-BR)
 Opera/9.52 (Macintosh; Intel Mac OS X; U; pt)
 Mozilla/5.0 (Windows NT 5.1; U; de; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.52
 Mozilla/5.0 (Windows NT 5.1; U;  ; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.52
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 9.52
 Opera/9.51 (X11; Linux i686; U; Linux Mint; en)
 Opera/9.51 (X11; Linux i686; U; fr)
 Opera/9.51 (X11; Linux i686; U; de)
@@ -7180,9 +7067,6 @@ Opera/9.50 (Windows NT 5.1; U; es-ES)
 Opera/9.50 (Macintosh; Intel Mac OS X; U; en)
 Opera/9.50 (Macintosh; Intel Mac OS X; U; de)
 Mozilla/5.0 (Windows NT 5.1; U; zh-cn; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.50
-Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux x86_64; en) Opera 9.50
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; en) Opera 9.50
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 9.50
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 9.50
 Opera/9.5 (Windows NT 6.0; U; en)
 Opera/9.5 (Windows NT 5.1; U; fr)
@@ -7203,9 +7087,7 @@ Opera/9.27 (Macintosh; Intel Mac OS X; U; sv)
 Mozilla/5.0 (Windows NT 5.2; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27
 Mozilla/5.0 (Windows NT 5.1; U; es-la; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27
 Mozilla/5.0 (Macintosh; Intel Mac OS X; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.27
-Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 9.27
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 9.27
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; es-la) Opera 9.27
 Opera/9.26 (Windows; U; pl)
 Opera/9.26 (Windows NT 5.1; U; zh-cn)
 Opera/9.26 (Windows NT 5.1; U; pl)
@@ -7214,7 +7096,6 @@ Opera/9.26 (Windows NT 5.1; U; MEGAUPLOAD 2.0; en)
 Opera/9.26 (Windows NT 5.1; U; de)
 Opera/9.26 (Macintosh; PPC Mac OS X; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.26
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.26
 Opera/9.25 (X11; Linux i686; U; fr-ca)
 Opera/9.25 (X11; Linux i686; U; fr)
 Opera/9.25 (X11; Linux i686; U; en)
@@ -7242,8 +7123,6 @@ Opera/9.24 (Windows NT 5.1; U; ru)
 Opera/9.24 (Windows NT 5.0; U; ru)
 Opera/9.24 (Macintosh; PPC Mac OS X; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0 Opera 9.24
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.24
-Mozilla/4.0 (compatible; MSIE 6.0; Mac_PowerPC; en) Opera 9.24
 Opera/9.23 (X11; Linux x86_64; U; en)
 Opera/9.23 (X11; Linux i686; U; es-es)
 Opera/9.23 (X11; Linux i686; U; en)
@@ -7401,17 +7280,8 @@ Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
 Opera/9.00 (Macintosh; PPC Mac OS X; U; es)
 Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; zh-cn) Opera 8.65
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; zh-cn) Opera 8.65
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Opera 8.65 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; Sprint:PPC-6700) Opera 8.65 [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 320x320)Opera 8.65 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [zh-cn]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [nl]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.65 [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.65 [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC) Opera 8.65 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Opera 8.60 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x320) Opera 8.60 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows CE; PPC; 240x240) Opera 8.60 [en]
 Opera/8.54 (X11; Linux i686; U; pl)
 Opera/8.54 (X11; Linux i686; U; de)
 Opera/8.54 (Windows NT 5.1; U; ru)
@@ -7424,13 +7294,7 @@ Opera/8.54 (Windows 98; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; pl) Opera 8.54
 Mozilla/5.0 (Windows 98; U; en) Opera 8.54
 Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.54
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; pl) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; fr) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; da) Opera 8.54
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; pl) Opera 8.54
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.54
 Opera/8.53 (Windows NT 5.2; U; en)
 Opera/8.53 (Windows NT 5.1; U; pt)
@@ -7439,11 +7303,8 @@ Opera/8.53 (Windows NT 5.1; U; de)
 Opera/8.53 (Windows NT 5.0; U; en)
 Opera/8.53 (Windows 98; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.53
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.53
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.53
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.53
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.53
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; en) Opera 8.53
 Opera/8.52 (X11; Linux x86_64; U; en)
 Opera/8.52 (X11; Linux i686; U; en)
 Opera/8.52 (Windows NT 5.1; U; ru)
@@ -7453,8 +7314,6 @@ Opera/8.52 (Windows ME; U; en)
 Mozilla/5.0 (X11; Linux i686; U; en) Opera 8.52
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.52
 Mozilla/5.0 (Windows NT 5.1; U; de) Opera 8.52
-Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.52
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; pl) Opera 8.52
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.52
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.52
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.52
@@ -7476,7 +7335,6 @@ Mozilla/5.0 (Windows NT 5.1; U; fr) Opera 8.51
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.51
 Mozilla/5.0 (Windows ME; U; en) Opera 8.51
 Mozilla/5.0 (Macintosh; PPC Mac OS X; U; en) Opera 8.51
-Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; ru) Opera 8.51
 Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.51
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.51
 Opera/8.50 (Windows NT 5.1; U; ru)
@@ -7496,7 +7354,6 @@ Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.50
 Mozilla/5.0 (Windows NT 5.1; U; de) Opera 8.50
 Mozilla/5.0 (Windows NT 5.0; U; de) Opera 8.50
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; ru) Opera 8.50
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; en) Opera 8.50
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; tr) Opera 8.50
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sv) Opera 8.50
 Opera/8.10 (Windows NT 5.1; U; en)
@@ -7504,13 +7361,7 @@ Opera/8.02 (Windows NT 5.1; U; ru)
 Opera/8.02 (Windows NT 5.1; U; en)
 Opera/8.02 (Windows NT 5.1; U; de)
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686; en) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.02
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; Windows ME; pl) Opera 8.02
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; de) Opera 8.02
 Opera/8.01 (Windows NT 5.1; U; pl)
 Opera/8.01 (Windows NT 5.1; U; fr)
 Opera/8.01 (Windows NT 5.1; U; en)
@@ -7519,25 +7370,16 @@ Opera/8.01 (Windows NT 5.0; U; de)
 Opera/8.01 (Macintosh; U; PPC Mac OS; en)
 Opera/8.01 (Macintosh; PPC Mac OS X; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.01
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.01
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.01
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.01
 Opera/8.00 (Windows NT 5.1; U; en)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.00
 Opera/8.0 (X11; Linux i686; U; cs)
 Opera/8.0 (Windows NT 5.1; U; en)
 Mozilla/5.0 (Windows NT 5.1; U; en) Opera 8.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ru) Opera 8.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; IT) Opera 8.0
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 8.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; de) Opera 8.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; en) Opera 8.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; de) Opera 8.0
 Mozilla/4.0 (compatible; MSIE 6.0; Windows CE) Opera 8.0  [en]
 Mozilla/5.0 (X11; Linux i386; U) Opera 7.60  [en-GB]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 7.60
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54u1  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.54u1  [en]
 Opera/7.54 (X11; Linux i686; U)  [en]
 Opera/7.54 (Windows NT 5.1; U) [en]
 Opera/7.54 (Windows NT 5.1; U)  [it]
@@ -7552,37 +7394,27 @@ Mozilla/5.0 (Windows NT 5.1; U) Opera 7.54  [de]
 Mozilla/5.0 (Windows NT 5.0; U) Opera 7.54  [en]
 Mozilla/4.78 (Windows NT 5.1; U) Opera 7.54  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686) Opera 7.54  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54 [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.54  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [pl]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.54  [de]
 Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC) Opera 7.54  [en]
 Opera/7.53 (X11; Linux i686; U) [en_US]
 Opera/7.53 (Windows NT 5.1; U)  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.53  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.53  [en]
 Opera/7.52 (Windows NT 5.1; U) [en]
 Opera/7.52 (Windows NT 5.1; U)  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.52 [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.52  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.52  [en]
 Opera/7.51 (X11; SunOS sun4u; U) [de]
 Opera/7.51 (Windows NT 5.1; U) [en]
 Opera/7.51 (Linux) [en]
 Mozilla/4.78 (Windows NT 5.1; U) Opera 7.51  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.51  [ru]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.51  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.51  [en]
 Opera/7.50 (Windows XP; U)
 Opera/7.50 (Windows NT 5.1; U)  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50  [ru]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.50  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [ru]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.50  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.50  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; ; Linux x86_64) Opera 7.50 [en]
-Mozilla/4.0 (compatible; MSIE 6.0; ; Linux i686) Opera 7.50 [en]
 Opera/7.23 (Windows NT 6.0; U)  [zh-cn]
 Opera/7.23 (Windows NT 5.1; U; sv)
 Opera/7.23 (Windows NT 5.0; U) [en]
@@ -7591,14 +7423,7 @@ Opera/7.23 (Windows NT 5.0; U)  [en]
 Opera/7.23 (Windows 98; U) [en]
 Mozilla/4.0 (compatible; MSIE 6.0; X11; Linux i686) Opera 7.23  [fi]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23 [ru]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [ru]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [en-GB]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.23  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.23  [ca]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.23  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.23  [en]
 Opera/7.22 (Windows NT 5.1; U)  [de]
 Opera/7.21 (Windows NT 5.1; U)  [en]
@@ -7607,7 +7432,6 @@ Opera/7.20 (Windows NT 5.1; U)  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.20  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.20  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows 98) Opera 7.20  [de]
 Opera/7.11 (Windows NT 5.1; U)  [pl]
 Opera/7.11 (Windows NT 5.1; U)  [en]
 Opera/7.11 (Windows NT 5.1; U)  [de]
@@ -7620,23 +7444,16 @@ Mozilla/5.0 (Windows NT 5.1; U) Opera 7.11  [en]
 Mozilla/5.0 (Windows NT 5.0; U) Opera 7.11  [en]
 Mozilla/5.0 (Linux 2.4.21-0.13mdk i686; U) Opera 7.11  [en]
 Mozilla/4.78 (Windows NT 5.0; U) Opera 7.11  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [ru]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.11  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [fr]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.11  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.11  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; Windows ME) Opera 7.11  [en]
 Opera/7.10 (Windows NT 5.1; U)  [en]
 Opera/7.10 (Windows NT 5.0; U)  [en]
 Opera/7.10 (Windows NT 4.0; U)  [de]
 Opera/7.10 (Linux Debian;en-US)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.10  [fr]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Opera 7.10  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Opera 7.10  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0) Opera 7.10  [de]
-Mozilla/3.0 (Windows NT 5.0; U) Opera 7.10  [de]
 Opera/7.03 (Windows NT 5.1; U)  [en]
 Opera/7.03 (Windows NT 5.1; U)  [de]
 Opera/7.03 (Windows NT 5.0; U)  [en]
@@ -7644,14 +7461,10 @@ Opera/7.03 (Windows NT 5.0; U)  [de]
 Opera/7.03 (Windows NT 4.0; U)  [en]
 Opera/7.03 (Windows 98; U)  [en]
 Opera/7.03 (Windows 98; U)  [de]
-Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.0.6) Gecko/2009020911 Ubuntu/8.10 (intrepid) Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03 [de]
 Mozilla/5.0 (Windows NT 5.1; U) Opera 7.03  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.03  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.03  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.03  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.03  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 95) Opera 7.03  [de]
 Opera/7.02 (Windows NT 5.1; U)  [fr]
@@ -7659,8 +7472,6 @@ Opera/7.02 (Windows 98; U)  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.02  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.02  [de]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.02  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.02  [en]
 Opera/7.01 (Windows NT 5.1; U)  [en]
 Opera/7.01 (Windows NT 5.0; U)  [en]
 Opera/7.01 (Windows 98; U)  [fr]
@@ -7668,10 +7479,8 @@ Opera/7.01 (Windows 98; U)  [en]
 Mozilla/5.0 (Windows NT 5.0; U) Opera 7.01  [en]
 Mozilla/4.78 (Windows NT 5.0; U) Opera 7.01  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.01  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.01  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.01  [en]
-Mozilla/3.0 (Windows NT 5.0; U) Opera 7.01  [en]
 Opera/7.0 (Windows NT 5.1; U)  [en]
 Opera/7.0 (Windows NT 4.0; U)  [en]
 Opera/7.0 (Windows NT 4.0; U)  [de]
@@ -7679,12 +7488,8 @@ Opera/7.0 (Windows 98; U)  [en]
 Opera/7.0 (Windows 2000; U)  [en]
 Opera/7.0 (Windows 2000; U)  [de]
 Mozilla/5.0 (Windows 2000; U) Opera 7.0  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows XP) Opera 7.0  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.1) Opera 7.0  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 5.0) Opera 7.0  [de]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows NT 4.0) Opera 7.0  [en]
-Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows ME) Opera 7.0  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 98) Opera 7.0  [en]
 Mozilla/4.0 (compatible; MSIE 6.0; MSIE 5.5; Windows 2000) Opera 7.0  [en]
 Opera/6.12 (Linux 2.4.20-4GB i686; U)  [en]
@@ -7709,7 +7514,6 @@ Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19 i686) Opera 6.1  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.1  [de]
 Mozilla/5.0 (Windows XP; U) Opera 6.06  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [fr]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.06  [de]
 Opera/6.05 (Windows XP; U) [en]
 Opera/6.05 (Windows XP; U)  [en]
 Opera/6.05 (Windows XP; U)  [de]
@@ -7740,16 +7544,11 @@ Opera/6.04 (Windows 2000; U)  [de]
 Mozilla/5.0 (Windows 2000; U) Opera 6.04  [en]
 Mozilla/4.78 (Windows 2000; U) Opera 6.04  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [fr]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.04  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [pl]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.04  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.04  [de]
 Opera/6.04 (Windows XP; U)  [de]
 Opera/6.04 (Windows 2000; U)  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.04  [en]
 Opera/6.03 (Windows NT 4.0; U)  [en]
 Opera/6.03 (Windows 98; U) [en]
 Opera/6.03 (Windows 2000; U)  [en]
@@ -7757,7 +7556,6 @@ Opera/6.03 (Linux 2.4.18-18.7.x i686; U)  [en]
 Mozilla/5.0 (Windows 2000; U) Opera 6.03  [en]
 Mozilla/5.0 (Linux 2.4.18-18.7.x i686; U) Opera 6.03  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.03  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.03  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.20-4GB i686) Opera 6.03  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.19-4GB i686) Opera 6.03  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.18-4GB i686) Opera 6.03  [en]
@@ -7781,8 +7579,6 @@ Opera/6.01 (Windows 2000; U)  [de]
 Mozilla/5.0 (Windows 2000; U) Opera 6.01  [en]
 Mozilla/5.0 (Windows 2000; U) Opera 6.01  [de]
 Mozilla/4.78 (Windows 2000; U) Opera 6.01  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [et]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.01  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 6.01  [en]
@@ -7806,9 +7602,7 @@ Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0 [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [fr]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [de]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0 [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [en]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.0  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC) Opera 6.0  [de]
 Opera/5.12 (Windows NT 5.1; U)  [de]
@@ -7816,7 +7610,6 @@ Opera/5.12 (Windows 98; U)  [en]
 Mozilla/5.0 (Windows 98; U) Opera 5.12  [de]
 Mozilla/4.76 (Windows NT 4.0; U) Opera 5.12  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 5.12  [de]
-Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [it]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows ME) Opera 5.12  [de]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [it]
 Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 5.12  [en]
@@ -7842,14 +7635,12 @@ Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.4-4GB i686) Opera 5.0  [en]
 Mozilla/4.0 (compatible; MSIE 5.0; Linux 2.4.0-4GB i686) Opera 5.0  [en]
 Opera/4.02 (Windows 98; U) [en]
 Mozilla/5.0 (Macintosh; ; Intel Mac OS X; fr; rv:1.8.1.1) Gecko/20061204 Opera
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera
 Mozilla/5.0 (Windows; U; Windows NT 6.1; x64; fr; rv:1.9.1.1) Gecko/20090722 Firefox/3.5.1 Orca/1.2 build 2
 Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090722 Firefox/3.5.1 Orca/1.2 build 2
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.1) Gecko/20090722 Firefox/3.5.1 Orca/1.2 build 2
 Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.0.7) Gecko/2009030821 Firefox/3.0.7 Orca/1.1 build 2
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.7) Gecko/2009030821 Firefox/3.0.7 Orca/1.1 build 2
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.6) Gecko/2009022300 Firefox/3.0.6 Orca/1.1 build 1
-Mozilla/1.10 [en] (Compatible; RISC OS 3.70; Oregano 1.10)
 Mozilla/1.10 [en]  (Compatible;  RISC OS 3.70;  Oregano 1.10)
 Mozilla/5.0 (X11; U; Linux i686; en-us) AppleWebKit/146.1 (KHTML, like Gecko) osb-browser/0.5
 (Windows NT 6.2; WOW64) KHTML/4.11 Gecko/20130308 Firefox/23.0 (PaleMoon/20.3)
@@ -9184,12 +8975,7 @@ Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB6.3; .NET CLR
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727; Sleipnir/2.9.2)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.2)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6.3; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727; .NET CLR 1.1.4322; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; Sleipnir/2.9.2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Sleipnir/2.9.2)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; Sleipnir/2.9.2)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; Sleipnir/2.9.1)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Sleipnir/2.9.1)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; OfficeLiveConnector.1.4; OfficeLivePatch.1.3; .NET CLR 3.0.30729; Sleipnir/2.8.5)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Sleipnir/2.8.5)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; FDM; Sleipnir/2.8.5)
@@ -9205,52 +8991,38 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; InfoPath.1; .NET CLR 2.0.5072
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Sleipnir/2.8.5)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; Sleipnir/2.8.5)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; Sleipnir/2.8.5)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM; Sleipnir/2.8.5)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; OfficeLiveConnector.1.3; OfficeLivePatch.1.3) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Trident/4.0; MathPlayer 2.10d; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; OfficeLiveConnector.1.3; OfficeLivePatch.1.3; .NET CLR 3.5.30729; .NET CLR 3.0.30618; .NET CLR 1.1.4322) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.2; WOW64; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
-Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; InfoPath.1; .NET CLR 2.0.50727) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; User-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1); .NET CLR 2.0.50727; .NET CLR 1.1.4322) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; User-agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1); .NET CLR 1.0.3705; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FunWebProducts-AskJeevesJapan; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.4
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; FDM) Sleipnir/2.8.4
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.8.3
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322) Sleipnir/2.8.3
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1) Sleipnir/2.8.1
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Sleipnir/2.8.1
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB5; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.8.0
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648) Sleipnir/2.8.0
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.8.0
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; WOW64; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506; Media Center PC 5.0) Sleipnir/2.7.2
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.7.2
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Sleipnir/2.7.2
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) Sleipnir/2.7.1
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648) Sleipnir/2.7.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322) Sleipnir/2.7.0
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506) Sleipnir/2.6.1
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30) Sleipnir/2.6.0
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.6.0
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.1) Sleipnir/2.5.17
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152) Sleipnir/2.5.13
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) Sleipnir/2.5.12
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Sleipnir/2.5.12
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.49
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0) Sleipnir/2.49
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.48
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) Sleipnir/2.48
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; GTB6; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022) Sleipnir/2.46
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) Sleipnir/2.41
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; Media Center PC 3.1; .NET CLR 2.0.50727; .NET CLR 1.1.4322) Sleipnir/2.30
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) Sleipnir/2.30
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; InfoPath.1) Sleipnir/2.21
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322) Sleipnir/2.21
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Sleipnir 2.8.4)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; SlimBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; SlimBrowser)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; SlimBrowser)
@@ -9291,7 +9063,6 @@ Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8.1.9) Gecko/20071110 Syler
 Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070809 Sylera/3.0.18 SeaMonkey/1.1.4
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; TencentTraveler 4.0; Trident/4.0; SLCC1; Media Center PC 5.0; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; QQDownload 1.7; GTB6.6; TencentTraveler 4.0; SLCC1; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.5.30729; .NET CLR 3.0.30729)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; iCafeMedia; TencentTraveler 4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; TencentTraveler 4.0; QQDownload 667; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.0.04506)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; QQPinyin 686; QQDownload 661; GTB6.6; TencentTraveler 4.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; QQDownload 1.7; GTB6.6; TencentTraveler 4.0)
@@ -9300,10 +9071,7 @@ Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler 4.0; GTB6.3; 
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; TencentTraveler 4.0; .NET CLR 2.0.50727; AskTB5.6)
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; QQDownload 627; TencentTraveler 4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; TencentTraveler 4.0; GTB6.5; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler 4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; msn OptimizedIE8;ZHCN)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler 4.0; (R1 1.5); .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 661; GTB6.6; TencentTraveler 4.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 551; QQDownload 661; TencentTraveler 4.0; (R1 1.5))
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; Alexa Toolbar; TencentTraveler 4.0)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; QQPinyin 730; SV1; TencentTraveler 4.0; .NET CLR 2.0.50727)
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; QQDownload 667; SV1; QQDownload 669; TencentTraveler 4.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727)
@@ -9318,7 +9086,6 @@ Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.2; Tablet PC 2.0; TheWorld)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET CLR 1.1.4322; Tablet PC 2.0; TheWorld)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; InfoPath.3; .NET4.0C; TheWorld)
-Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.3; TheWorld)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB6.5; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; TheWorld)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET4.0C; .NET4.0E; TheWorld)
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; TheWorld)

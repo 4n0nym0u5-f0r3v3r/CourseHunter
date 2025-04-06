@@ -221,6 +221,7 @@ if __name__ == "__main__":
             html_response = get_request()
         except Exception as e:
             print(f"SOMETHING WENT WRONG: {e}")
+            html_response = None
         while html_response is None:
             html_response = get_request()
         course_list_output = process_with_soup(html_response)
